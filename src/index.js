@@ -18,7 +18,7 @@ const routes = {
   "cloudsmith.flexematic.info": "https://docker.cloudsmith.io",
 
   // staging
-  "docker.flexematic.info": dockerHub,
+  "docker-staging.flexematic.info": dockerHub,
 };
 
 function routeByHosts(host) {
